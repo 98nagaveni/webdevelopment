@@ -1,0 +1,222 @@
+body{
+    margin:0;
+    
+}
+.maidiv{
+    width: calc(80% - 20px);
+    margin:40px auto;
+    background:black;
+    
+   
+} 
+.position{
+    width:  100%;
+    height: 70%;
+    position: relative;
+
+}
+.heading{
+    color: whitesmoke;
+    position: absolute;
+    top: 400px;
+    right: 700px;
+    font-family: "Merriweather";
+     font-size:50px ;
+     font-weight: 900;
+     padding: 30px; 
+}
+.position1{
+    position: absolute;
+    bottom:290px ;
+    left: 700px;
+    color: beige;
+}
+.position2{
+    position: absolute;
+    bottom:230px ;
+    right: 900px;
+    border-radius: 12px;
+    background: white;
+    color: black;
+    padding: 15px;
+    font-family: 'Courier New', Courier,;
+}
+.position3{
+    text-align: center;
+    color: white;
+    font-family: "Merriweather";
+    font-weight: 900;
+}
+.position4{
+    color: white;
+    text-align: center;
+}
+.min1{
+    width: 100%;
+    background: black;
+    height: 500px;
+    position: relative;
+}
+.sub{
+     position: relative;
+    height: 100% ;
+    float: left;
+    color:white;
+    position: absolute;
+    top: 30px;
+    left:180px;
+}
+.sub1{
+    position: absolute;
+    top: 30px;
+    left:575px;
+    float: left;
+    color:white;
+    position: relative;
+}
+.sub2{
+    position: absolute;
+    top: 30px;
+    right:-620px;
+    height: 900% ;
+    float: left;
+    color:white;
+    position: relative;
+}
+.clear{
+    clear: both;
+}
+.text1{
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 30px;
+    right: 30px;
+}
+.task2{
+    color: white;
+    position: absolute;
+    top:200px;
+    left:30px;
+    right: 30px;
+}
+.task3{
+    color: white;
+    position: absolute;
+    top:200px;
+    left: 30px;
+    right: 30;
+
+} 
+.min2{
+    width: 100%;
+    position: absolute;
+    top: 1660px;
+    
+}
+  .heading1{
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    top:300px;
+    left:500px;
+    font-family: "Merriweather";
+}
+.task4{
+    color: white;
+    position: absolute;
+    top:500px;
+    left:400px;
+}
+.min3{
+    width: 79% ;
+    height: 300px;
+    background: black;
+    position: absolute;
+    top:2290px ;
+    padding: 40px 0;
+    
+}
+.heading2{
+    
+    color: white;
+    font-family: "Merriweather";
+    text-align: center;
+}
+.task5{
+    color: white;
+    position: absolute;
+    left: 500px;
+    top:250px;
+}
+.min4{
+    width: 100%;
+    position :absolute;
+    top:2660px;
+}
+.min5{
+    width: calc( 79% - 100px );
+    position: absolute;
+    top:3360px;
+    background: black;
+    padding: 50px;
+    height: 1000px;
+}
+.task6{
+    width: 30%;
+    position: absolute;
+     left:250px;
+
+}
+.task7{
+    width:30%;
+    height: 440px;
+    position: absolute;
+    right: 300px;
+}
+.heading3{
+    color: white;
+    position: absolute;
+    top:500px;
+    left:500px;
+
+}
+.task8{
+    color: white;
+    position: absolute;
+    top:590px;
+    left:400px;
+}
+.task9{
+    width: 16%;
+    height:200px;
+    position: absolute;
+    top:800px;
+    left: 250px;
+    float: left;
+
+    
+}
+.task10{
+    width: 15%;
+    height:200px;
+    position: absolute;
+    top:800px;
+    left:500px;
+    float: left;
+}
+.task11{
+    width: 15%;
+    height: 200px;
+    position: absolute;
+    top:800px;
+    left:730px;
+    float: left;
+}
+.task12{
+    width: 16%;
+    height: 200px;
+    top:800px;
+    right:300px;
+    position: absolute;
+}
